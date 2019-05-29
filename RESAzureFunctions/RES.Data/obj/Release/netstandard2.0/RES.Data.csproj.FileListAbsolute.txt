@@ -1,0 +1,14 @@
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\DocumentDB.Spatial.Sql.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\RES.Data.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\RES.Data.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\RES.Data.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\RES.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\bin\Release\netstandard2.0\RES.Configuration.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.csproj.CopyComplete
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Data\obj\Release\netstandard2.0\RES.Data.pdb

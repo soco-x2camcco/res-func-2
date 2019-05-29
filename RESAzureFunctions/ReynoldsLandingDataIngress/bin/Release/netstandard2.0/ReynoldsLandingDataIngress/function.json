@@ -1,0 +1,16 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.26",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "ResListener",
+      "topicName": "res-datacollection-ingress-apc-rl",
+      "subscriptionName": "all",
+      "name": "eventHubData"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/ReynoldsLandingDataIngress.dll",
+  "entryPoint": "APIDataIngress.ReynoldsLanding.ReynoldsLandingDataIngress.Run"
+}

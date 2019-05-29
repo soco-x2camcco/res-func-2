@@ -1,0 +1,415 @@
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\DocumentDB.Spatial.Sql.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\host.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\local.settings.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\APIDataIngress.deps.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\APIDataIngress.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\APIDataIngress.pdb
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.ApplicationInsights.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.Http.Formatting.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authentication.Core.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authorization.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Features.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.JsonPatch.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Routing.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.WebUtilities.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.Amqp.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.DocumentDB.Core.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.EventHubs.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.EventHubs.Processor.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.KeyVault.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.KeyVault.WebKey.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.ServiceBus.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.Services.AppAuthentication.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Host.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Extensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.EventHubs.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.ServiceBus.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Host.Storage.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Build.Framework.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Build.Utilities.Core.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.CSharp.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.DotNet.PlatformAbstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Binder.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Json.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyInjection.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyModel.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Hosting.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.Configuration.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.ObjectPool.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Options.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Primitives.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Logging.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Tokens.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Net.Http.Headers.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Rest.ClientRuntime.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Win32.Registry.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\NCrontab.Signed.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Newtonsoft.Json.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Newtonsoft.Json.Bson.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.AppContext.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Buffers.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Concurrent.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Immutable.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.NonGeneric.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Specialized.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.ComponentModel.Annotations.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Data.SqlClient.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Diagnostics.DiagnosticSource.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Diagnostics.StackTrace.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Dynamic.Runtime.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.IdentityModel.Tokens.Jwt.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.IO.FileSystem.Primitives.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.Expressions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.Queryable.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Memory.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.WebHeaderCollection.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.WebSockets.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Numerics.Vectors.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.ObjectModel.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Private.DataContractSerialization.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.ILGeneration.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.Lightweight.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Metadata.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.TypeExtensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Resources.Reader.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Loader.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Numerics.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Json.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Primitives.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Xml.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.AccessControl.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Claims.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Cryptography.OpenSsl.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Cryptography.Primitives.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Principal.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Principal.Windows.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.Encoding.CodePages.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.Encodings.Web.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.RegularExpressions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Tasks.Dataflow.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Tasks.Extensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Thread.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.ThreadPool.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.ReaderWriter.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XDocument.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XmlDocument.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XmlSerializer.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.WindowsAzure.Storage.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\debian.8-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\fedora.23-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\fedora.24-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\opensuse.13.2-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\opensuse.42.1-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.Apple.dylib
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.OpenSsl.dylib
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\rhel.7-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.14.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.16.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.16.10-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-arm64\native\sni.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-x64\native\sni.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-x86\native\sni.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\linux\lib\netstandard1.4\System.Diagnostics.Process.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.4\System.Diagnostics.Process.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.4\System.Diagnostics.Process.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Diagnostics.TraceSource.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Diagnostics.TraceSource.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Globalization.Extensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Globalization.Extensions.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.IO.Compression.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Net.Http.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Http.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.NameResolution.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.NameResolution.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\linux\lib\netstandard1.3\System.Net.NetworkInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.3\System.Net.NetworkInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.NetworkInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.Requests.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Net.Security.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Security.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.WebSockets.Client.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.WebSockets.Client.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.AccessControl.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Cng.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Cng.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.OpenSsl.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Principal.Windows.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.SecureString.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.SecureString.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\System.Text.Encoding.CodePages.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Threading.Overlapped.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Threading.Overlapped.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csproj.CoreCompileInputs.cache
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.AssemblyInfoInputs.cache
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.AssemblyInfo.cs
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csproj.CopyComplete
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.pdb
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\DocumentDB.Spatial.Sql.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\host.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\local.settings.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\APIDataIngress.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\APIDataIngress.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\APIDataIngress.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.Http.Formatting.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.Amqp.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.Documents.ChangeFeedProcessor.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.DocumentDB.Core.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.EventHubs.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.EventHubs.Processor.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.KeyVault.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.ServiceBus.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Extensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Extensions.CosmosDB.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.EventHubs.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.ServiceBus.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Azure.WebJobs.Host.Storage.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Build.Framework.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.CSharp.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Hosting.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Options.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.Win32.Registry.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\NCrontab.Signed.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Newtonsoft.Json.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Newtonsoft.Json.Bson.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.AppContext.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Buffers.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Concurrent.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Immutable.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.NonGeneric.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Collections.Specialized.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.ComponentModel.Annotations.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Data.SqlClient.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Diagnostics.StackTrace.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Dynamic.Runtime.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.Expressions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Linq.Queryable.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Memory.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.WebHeaderCollection.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Net.WebSockets.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Numerics.Vectors.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.ObjectModel.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Private.DataContractSerialization.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.ILGeneration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Emit.Lightweight.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.Metadata.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Reflection.TypeExtensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Resources.Reader.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Loader.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Numerics.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Json.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.AccessControl.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Claims.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Cryptography.OpenSsl.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Principal.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Security.Principal.Windows.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.Encoding.CodePages.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.Encodings.Web.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Text.RegularExpressions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.Thread.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Threading.ThreadPool.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.ReaderWriter.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XDocument.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XmlDocument.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\System.Xml.XmlSerializer.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\RES.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\RES.Data.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\RES.Configuration.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\RES.Data.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\debian.8-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\fedora.23-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\fedora.24-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\opensuse.13.2-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\opensuse.42.1-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.Apple.dylib
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.OpenSsl.dylib
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\rhel.7-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.14.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.16.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\ubuntu.16.10-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-arm64\native\sni.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-x64\native\sni.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win-x86\native\sni.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\linux\lib\netstandard1.4\System.Diagnostics.Process.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.4\System.Diagnostics.Process.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.4\System.Diagnostics.Process.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Diagnostics.TraceSource.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Diagnostics.TraceSource.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Globalization.Extensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Globalization.Extensions.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.IO.Compression.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Net.Http.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Http.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.NameResolution.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.NameResolution.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\linux\lib\netstandard1.3\System.Net.NetworkInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.3\System.Net.NetworkInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.NetworkInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.Requests.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Net.Security.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.Security.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Net.WebSockets.Client.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Net.WebSockets.Client.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.AccessControl.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Cng.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Cng.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.OpenSsl.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.Principal.Windows.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Security.SecureString.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Security.SecureString.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard2.0\System.Text.Encoding.CodePages.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\unix\lib\netstandard1.3\System.Threading.Overlapped.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\runtimes\win\lib\netstandard1.3\System.Threading.Overlapped.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.csproj.CopyComplete
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\obj\Debug\netstandard2.0\APIDataIngress.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress\bin\Debug\netstandard2.0\bin\Microsoft.WindowsAzure.Configuration.dll

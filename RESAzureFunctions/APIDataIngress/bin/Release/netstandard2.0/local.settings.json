@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=socoresfunctiona11b;AccountKey=IiddTrs90+cGxsJrxDpyNkttv1PNBw3LdJuhQ0WTPbWs2h1ZFKoy4DqmI6VqfCvfe4/yn1Mgx4yGQzou++hL6w==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=socoresfunctiona11b;AccountKey=IiddTrs90+cGxsJrxDpyNkttv1PNBw3LdJuhQ0WTPbWs2h1ZFKoy4DqmI6VqfCvfe4/yn1Mgx4yGQzou++hL6w==",
+    "ResListener": "Endpoint=sb://socoresevents.servicebus.windows.net/;SharedAccessKeyName=Test-Functions;SharedAccessKey=3S6Y0mk0XrpYEYrn5cCoG0tsHvdT0Zeptw2qm45liTk=;",
+    "appInsightsInstrumentationKey": "7d1a3ae1-893a-408b-b426-ce6f2768b7c4",
+    "RESDocumentStorageDB": "AccountEndpoint=https://socores-configuration.documents.azure.com:443/;AccountKey=QL3C31rKIdfEycP8YFiMb1E0treLguQNM6UosKPRNBLNxpyCQBHJXyxubtxvzg1CqY8QDNpYagvq1z4Bv5eDXQ==;",
+    "RawDataWebJobTasksCSV": "SiteSageTimer:0,SiteSage:0,SiteSageAggregateTimer:1,SiteSageAggregate:0,WaterHeaterTimer:0,Rheem:0,ThermostatTimer:0,Carrier:0,TermostatConfigTimer:0,CarrierConfig:0,CPRDataTimer:0",
+    "ResDBSqlConnctionString": "Server=tcp:socoresdb.database.windows.net,1433;Initial Catalog=resdb;Persist Security Info=False;User ID=ressvc_connect;Password=qndG2UrSu7HCtoh;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "AzureKeyVault": {
+    "Vault": "reskeyvault-dv",
+    "ClientId": "4607e742-a8e5-4f81-a92c-430b82e060e6",
+    "ClientSecret": "RkqKHGcl1zQNcLD8mugA9tavQXF0OYbcSogDuMT6ko4="
+  }
+}

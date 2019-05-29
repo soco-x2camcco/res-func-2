@@ -1,0 +1,9 @@
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\bin\Release\netstandard2.0\RES.Configuration.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\bin\Release\netstandard2.0\RES.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\bin\Release\netstandard2.0\RES.Configuration.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Configuration\obj\Release\netstandard2.0\RES.Configuration.pdb

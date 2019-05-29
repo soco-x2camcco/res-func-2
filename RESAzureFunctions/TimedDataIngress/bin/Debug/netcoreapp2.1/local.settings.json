@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ResServiceBus": "Endpoint=sb://resdv-servicebus.servicebus.windows.net/;SharedAccessKeyName=SocoApiAccessKey;SharedAccessKey=3ACP5Z2nvCetJ/8/XsW9VMFyYHRMEsGaFlkF9lzPHkE="
+  },
+  "AzureKeyVault": {
+    "Vault": "reskeyvault-dv",
+    "ClientId": "4607e742-a8e5-4f81-a92c-430b82e060e6",
+    "ClientSecret": "RkqKHGcl1zQNcLD8mugA9tavQXF0OYbcSogDuMT6ko4="
+  }
+}

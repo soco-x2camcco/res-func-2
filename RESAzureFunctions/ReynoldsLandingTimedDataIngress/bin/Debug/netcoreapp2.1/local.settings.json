@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=socoresfunctiona11b;AccountKey=IiddTrs90+cGxsJrxDpyNkttv1PNBw3LdJuhQ0WTPbWs2h1ZFKoy4DqmI6VqfCvfe4/yn1Mgx4yGQzou++hL6w==",
+    "CPRWeatherSettings": "{\"CPRFtpSettings\": [{\"SubscriptionId\": \"2f55b2d9-7079-47de-a264-40f37695c5dd\",\"DefinitionId\": \"c304a29d-ed61-4bf7-ae9d-23298e3e913f\",\"FtpFilePath\": \"ftp://xtr.southernco.com/PvForecast/AL Power - Neighborhood of the Future (CFUP4X)\",\"EventType\": \"Hourly\"},{\"SubscriptionId\": \"2f55b2d9-7079-47de-a264-40f37695c5dd\",\"DefinitionId\": \"700dfaf6-bee8-4375-8106-f249b278a6da\",\"FtpFilePath\": \"ftp://xtr.southernco.com/PvForecast/[COPY] [COPY] AL Power - Neighborhood of the Future (RE1RM6)\",\"EventType\": \"EveryMinute\"},{\"SubscriptionId\": \"2f55b2d9-7079-47de-a264-40f37695c5dd\",\"DefinitionId\": \"68dd0a99-1d05-45ea-a95d-2aecb440d3ab\",\"FtpFilePath\": \"ftp://xtr.southernco.com/PvForecast/[COPY] AL Power - Neighborhood of the Future (3VURBE)\",\"EventType\": \"HalfHourly\"}]}",
+    "CPRWeatherDataProcessType": "Raw|Topic",
+    "ResListener": "Endpoint=sb://socoresevents.servicebus.windows.net/;SharedAccessKeyName=Test-Functions;SharedAccessKey=3S6Y0mk0XrpYEYrn5cCoG0tsHvdT0Zeptw2qm45liTk=;",
+    "ResServiceBus": "Endpoint=sb://resdv-servicebus.servicebus.windows.net/;SharedAccessKeyName=SocoApiAccessKey;SharedAccessKey=3ACP5Z2nvCetJ/8/XsW9VMFyYHRMEsGaFlkF9lzPHkE=",
+    "RESDocumentStorageDB": "AccountEndpoint=https://socores-configuration.documents.azure.com:443/;AccountKey=QL3C31rKIdfEycP8YFiMb1E0treLguQNM6UosKPRNBLNxpyCQBHJXyxubtxvzg1CqY8QDNpYagvq1z4Bv5eDXQ==;",
+    "RESDocumentStorageDB:Endpoint": "https://socores-configuration.documents.azure.com:443/",
+    "RESDocumentStorageDB:Collection": "RESDB",
+    "RESDocumentStorageDB:Database": "RESDocumentCollection",
+    "RESDocumentStorageDB:AuthKey": "QL3C31rKIdfEycP8YFiMb1E0treLguQNM6UosKPRNBLNxpyCQBHJXyxubtxvzg1CqY8QDNpYagvq1z4Bv5eDXQ==",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "AzureKeyVault": {
+    "Vault": "reskeyvault-dv",
+    "ClientId": "4607e742-a8e5-4f81-a92c-430b82e060e6",
+    "ClientSecret": "RkqKHGcl1zQNcLD8mugA9tavQXF0OYbcSogDuMT6ko4="
+  }
+}

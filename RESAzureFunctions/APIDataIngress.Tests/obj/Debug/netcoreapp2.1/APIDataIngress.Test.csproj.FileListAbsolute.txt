@@ -1,0 +1,46 @@
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\host.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\local.settings.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.deps.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.runtimeconfig.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.runtimeconfig.dev.json
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.pdb
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.pdb
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csprojAssemblyReference.cache
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csproj.CoreCompileInputs.cache
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.AssemblyInfoInputs.cache
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.AssemblyInfo.cs
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csproj.CopyComplete
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.dll
+\\ALXAPFS01\X2CAMCCO$\Visual Studio 2017\Projects\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\DocumentDB.Spatial.Sql.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\host.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\local.settings.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.runtimeconfig.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.runtimeconfig.dev.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.Test.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\RES.Configuration.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\RES.Data.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\APIDataIngress.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\RES.Configuration.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\bin\Debug\netcoreapp2.1\RES.Data.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.csproj.CopyComplete
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\APIDataIngress.Tests\obj\Debug\netcoreapp2.1\APIDataIngress.Test.pdb

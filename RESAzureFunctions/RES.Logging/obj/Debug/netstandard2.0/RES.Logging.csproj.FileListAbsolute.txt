@@ -1,0 +1,17 @@
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.csprojAssemblyReference.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\1.0\RESc\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.deps.json
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\bin\Debug\netstandard2.0\RES.Logging.pdb
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.csproj.CoreCompileInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.AssemblyInfoInputs.cache
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.AssemblyInfo.cs
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.dll
+C:\Users\X2CAMCCO\Source\Workspaces\MeteringRnD\RES\Development\2.0\RESc\AzureFunction\RESAzureFunctions\RES.Logging\obj\Debug\netstandard2.0\RES.Logging.pdb

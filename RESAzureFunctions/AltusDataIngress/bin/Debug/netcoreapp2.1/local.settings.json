@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=socoresfunctiona11b;AccountKey=IiddTrs90+cGxsJrxDpyNkttv1PNBw3LdJuhQ0WTPbWs2h1ZFKoy4DqmI6VqfCvfe4/yn1Mgx4yGQzou++hL6w==",
+    "ResListener": "Endpoint=sb://socoresevents.servicebus.windows.net/;SharedAccessKeyName=Test-Functions;SharedAccessKey=3S6Y0mk0XrpYEYrn5cCoG0tsHvdT0Zeptw2qm45liTk=;",
+    "ResServiceBus": "Endpoint=sb://resdv-servicebus.servicebus.windows.net/;SharedAccessKeyName=SocoApiAccessKey;SharedAccessKey=3ACP5Z2nvCetJ/8/XsW9VMFyYHRMEsGaFlkF9lzPHkE=",
+    "RESDocumentStorageDB": "AccountEndpoint=https://socores-configuration.documents.azure.com:443/;AccountKey=QL3C31rKIdfEycP8YFiMb1E0treLguQNM6UosKPRNBLNxpyCQBHJXyxubtxvzg1CqY8QDNpYagvq1z4Bv5eDXQ==;",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "AzureKeyVault": {
+    "Vault": "reskeyvault-dv",
+    "ClientId": "4607e742-a8e5-4f81-a92c-430b82e060e6",
+    "ClientSecret": "RkqKHGcl1zQNcLD8mugA9tavQXF0OYbcSogDuMT6ko4="
+  }
+}
